@@ -2,4 +2,6 @@ hello
 simran
 sruhti
 akhila
+omu
+uppu
 
